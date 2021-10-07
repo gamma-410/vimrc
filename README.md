@@ -1,2 +1,2 @@
 # vimrc
-私が使っているvimrcのconfigです。
+私が使っているvimのconfigです。
