@@ -1,4 +1,5 @@
 # vimrc
 This config is my vimrc.
 
-Pulgを入れる。<br>
+Pulg<br>
+sheerun/vim-polyglot
