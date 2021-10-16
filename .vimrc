@@ -38,3 +38,6 @@ set hlsearch
 nmap <Esc><Esc> :nohlsearch<CR><Esc>
 
 set nocompatible
+call plug#begin()
+Plug 'sheerun/vim-polyglot'
+call plug#end()
