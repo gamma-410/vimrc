@@ -2,4 +2,8 @@
 This config is my vimrc.
 
 Pulg<br>
-sheerun/vim-polyglot
+<li>sheerun/vim-polyglot</li>
+<li>itchyny/lightline.vim</li>
+<code>
+  :PlugInstall
+</code>
