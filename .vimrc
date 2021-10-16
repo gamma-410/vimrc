@@ -1,4 +1,4 @@
-
+" setting
 set fenc=utf-8
 set nobackup
 set noswapfile
@@ -7,10 +7,10 @@ set hidden
 set showcmd
 
 
-" 見た目
+" 見た目系
 set number
 set cursorline
-set cursorcolumn
+highlight lineNr ctermfg=75
 set virtualedit=onemore
 set smartindent
 set visualbell
@@ -22,14 +22,14 @@ nnoremap k gk
 syntax enable
 
 
-" Tab
+" Tab系
 set list listchars=tab:\▸\-
 set expandtab
 set tabstop=2
 set shiftwidth=2
 
 
-" 検索
+" 検索系
 set ignorecase
 set smartcase
 set incsearch
@@ -37,7 +37,12 @@ set wrapscan
 set hlsearch
 nmap <Esc><Esc> :nohlsearch<CR><Esc>
 
+" Pulg関連
 set nocompatible
+
 call plug#begin()
+
 Plug 'sheerun/vim-polyglot'
+Plug 'itchyny/lightline.vim'
+
 call plug#end()
