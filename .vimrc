@@ -9,7 +9,6 @@ set showcmd
 
 " 見た目系
 set number
-set cursorline
 highlight lineNr ctermfg=75
 set virtualedit=onemore
 set smartindent
