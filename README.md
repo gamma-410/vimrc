@@ -1,4 +1,7 @@
-# moka. vimrc
+# my vimrc
+ちょっとだけカスタムしたい方向けのvimrcです。  
+自分が使ってる環境のvimrcをコピペしただけなので雑ですが...  
+
 <img width="1351" alt="スクリーンショット 2021-12-02 22 08 43" src="https://user-images.githubusercontent.com/88177671/144428080-13a7d152-97e4-4934-ae9e-a060b89a8ea9.png">
 <br>
 This config is my vimrc.
