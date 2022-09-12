@@ -9,12 +9,12 @@ set showcmd
 " 見た目系
 set number
 syntax enable
-highlight lineNr ctermfg=214 
+highlight lineNr ctermfg=69 
 set list listchars=tab:\▸\-
 set smartindent
 set showmatch
 set laststatus=2
-hi statusline guibg=DarkGrey ctermfg=214 guifg=White ctermbg=15
+hi statusline guibg=DarkGrey ctermfg=69 guifg=White ctermbg=15
 nnoremap j gj
 nnoremap k gk
 
